@@ -5,3 +5,7 @@ It would be important to use remote if working from multiple locations, collabor
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 It may pull and out of date copy or and update from a collaborator.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is copying a repository that is on github to github.  A clone is copying a remote repository to local computer.  And branch is creating another version inside the repository.
