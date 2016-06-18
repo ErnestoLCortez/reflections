@@ -17,3 +17,7 @@ It makes resolving a merge conflict with remote possible.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Using a shared Google doc might be one way, but merging would be much harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When collaborating so that the person in charge of the master can check pull requests and when working on experimental features.
