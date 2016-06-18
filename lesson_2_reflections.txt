@@ -13,3 +13,7 @@ Use it to verify the files that have been changed and that need to be committed.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 It would be helpful in situations where experiments need to be made or a different version of the software needs to be made.  They help by perserving the code in the master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+Git branch and git log can be difficult to grasp from just reading text, creating a diagram help create a visual map of the different paths the project has taken.
