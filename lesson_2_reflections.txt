@@ -21,3 +21,7 @@ Git branch and git log can be difficult to grasp from just reading text, creatin
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging ttwo branches combines the changes in both branches together.  It is represented as a convergence of paths to show that the commits of both branches are now accessible in the newly merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging makes it so that the developers do not have to do the tedious task of double checking code that can obviously be combined.
